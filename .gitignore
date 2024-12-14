@@ -1,0 +1,35 @@
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+
+
+# Ignore Visual Studio specific files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.log
+*.ipch
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
