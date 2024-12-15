@@ -1,6 +1,7 @@
 # Tic-Tac-Toe Game
 
 This is a simple and interactive Tic-Tac-Toe game implemented in **C** using the **SDL2 library** for graphics, **SDL2_mixer** for sound effects, and **SDL2_image** for loading images. The game supports both **single-player** (against the computer) and **multiplayer** modes, making it a fun and engaging experience for users.
+![play](https://github.com/user-attachments/assets/e3bfc097-638a-4f8b-af3c-53a8600d347d)
 
 ---
 
