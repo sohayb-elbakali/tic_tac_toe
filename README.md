@@ -2,6 +2,9 @@
 
 This is a simple Tic-Tac-Toe game implemented in C using the SDL2 library for graphics, SDL2_mixer for sound, and SDL2_image for loading images.
 
+![menu](https://github.com/user-attachments/assets/6dc16fc9-d2d1-444c-9875-62b56c70d086)
+
+
 ## Prerequisites
 
 To build and run this project, you need to have the following installed:
