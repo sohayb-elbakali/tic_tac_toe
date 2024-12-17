@@ -40,13 +40,6 @@ This is a simple and interactive Tic-Tac-Toe game implemented in **C** using the
 
 ---
 
-## Future Improvements
-- **AI Opponent**: Implement a smarter AI opponent using algorithms like Minimax.
-- **Online Multiplayer**: Add support for online multiplayer using networking.
-- **Customizable Themes**: Allow players to choose different themes (e.g., colors, board styles).
-- **Scoreboard**: Add a scoreboard to track wins in multiplayer mode.
-
----
 
 ## How to Build and Run
 
